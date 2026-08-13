@@ -1,0 +1,73 @@
+\begin{thebibliography}{10}
+\providecommand{\natexlab}[1]{#1}
+\providecommand{\url}[1]{\texttt{#1}}
+\expandafter\ifx\csname urlstyle\endcsname\relax
+  \providecommand{\doi}[1]{doi: #1}\else
+  \providecommand{\doi}{doi: \begingroup \urlstyle{rm}\Url}\fi
+
+\bibitem[Altavilla et~al.(2019)Altavilla, Brugnolini, G{\"u}rkaynak, Motto, and
+  Ragusa]{altavilla2019}
+Carlo Altavilla, Luca Brugnolini, Refet~S. G{\"u}rkaynak, Roberto Motto, and
+  Giuseppe Ragusa.
+\newblock Measuring euro area monetary policy.
+\newblock \emph{Journal of Monetary Economics}, 108:\penalty0 162--179, 2019.
+
+\bibitem[Cameron et~al.(2008)Cameron, Gelbach, and Miller]{cameron2008}
+A.~Colin Cameron, Jonah~B. Gelbach, and Douglas~L. Miller.
+\newblock Bootstrap-based improvements for inference with clustered errors.
+\newblock \emph{Review of Economics and Statistics}, 90\penalty0 (3):\penalty0
+  414--427, 2008.
+
+\bibitem[Diebold and Li(2006)]{dieboldli2006}
+Francis~X. Diebold and Canlin Li.
+\newblock Forecasting the term structure of government bond yields.
+\newblock \emph{Journal of Econometrics}, 130\penalty0 (2):\penalty0 337--364,
+  2006.
+
+\bibitem[G{\"u}rkaynak et~al.(2005)G{\"u}rkaynak, Sack, and
+  Swanson]{gurkaynak2005}
+Refet~S. G{\"u}rkaynak, Brian Sack, and Eric~T. Swanson.
+\newblock Do actions speak louder than words? the response of asset prices to
+  monetary policy actions and statements.
+\newblock \emph{International Journal of Central Banking}, 1\penalty0
+  (1):\penalty0 55--93, 2005.
+
+\bibitem[Jaroci{\'n}ski and Karadi(2020)]{jarocinski2020}
+Marek Jaroci{\'n}ski and Peter Karadi.
+\newblock Deconstructing monetary policy surprises: The role of information
+  shocks.
+\newblock \emph{American Economic Journal: Macroeconomics}, 12\penalty0
+  (2):\penalty0 1--43, 2020.
+
+\bibitem[Krishnamurthy and Vissing-Jorgensen(2011)]{krishnamurthy2011}
+Arvind Krishnamurthy and Annette Vissing-Jorgensen.
+\newblock The effects of quantitative easing on interest rates.
+\newblock \emph{Brookings Papers on Economic Activity}, 43\penalty0
+  (2):\penalty0 215--287, 2011.
+
+\bibitem[Kuttner(2001)]{kuttner2001}
+Kenneth~N. Kuttner.
+\newblock Monetary policy surprises and interest rates: Evidence from the fed
+  funds futures market.
+\newblock \emph{Journal of Monetary Economics}, 47\penalty0 (3):\penalty0
+  523--544, 2001.
+
+\bibitem[Nakamura and Steinsson(2018)]{nakamura2018}
+Emi Nakamura and J{\'o}n Steinsson.
+\newblock High-frequency identification of monetary non-neutrality: The
+  information effect.
+\newblock \emph{Quarterly Journal of Economics}, 133\penalty0 (3):\penalty0
+  1283--1330, 2018.
+
+\bibitem[Rogers et~al.(2014)Rogers, Scotti, and Wright]{rogers2014}
+John~H. Rogers, Chiara Scotti, and Jonathan~H. Wright.
+\newblock Evaluating asset-market effects of unconventional monetary policy.
+\newblock \emph{Economic Policy}, 29\penalty0 (80):\penalty0 749--799, 2014.
+
+\bibitem[Swanson(2021)]{swanson2021}
+Eric~T. Swanson.
+\newblock Measuring the effects of federal reserve forward guidance and asset
+  purchases on financial markets.
+\newblock \emph{Journal of Monetary Economics}, 118:\penalty0 32--53, 2021.
+
+\end{thebibliography}
